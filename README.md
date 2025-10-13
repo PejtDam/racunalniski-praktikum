@@ -2,6 +2,6 @@
 
 ## Bližnjice
 
-- `ctrl + c` - kopiraj
-- `ctrl + v` - prilepi
-- `ctrl + shift + esc` - odpri task manager
+- `Ctrl` + `Shift` + `K` - izbriši trenutno vrstico
+- `Ctrl + `N` - ustvari novo datoteko
+- `Ctrl` + `X` - izreži
