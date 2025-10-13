@@ -1,4 +1,4 @@
-# Racunalniski praktikum
+# Računalniski praktikum
 
 ## Bližnjice
 
