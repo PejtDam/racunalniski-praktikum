@@ -49,6 +49,8 @@ h2 {
     background-color: rgb(51, 0, 102, 0.1);
 }
 
+
+
 .slika {
     border: 2px red solid;
     font-size: 0.9em;
@@ -62,4 +64,14 @@ h2 {
 .slika img {
     width: 100%;
     height: auto;
+}
+
+
+.slika p:nth-child(2) {
+    margin-bottom: 0;
+}
+
+.slika p:last-child {
+    margin-top: 0;
+    font-size: 0.8em;
 }
